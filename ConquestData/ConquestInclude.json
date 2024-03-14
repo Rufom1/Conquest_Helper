@@ -1,0 +1,36 @@
+{"Standard_Conquest":{
+    "UpgradePoints":{
+        "GuideLines":{
+            "GameSize":{
+                "Access_Schema": "Array(0-2, 0-1): Outter Array @ Idx 0-1 == Pts <, @ Idx 2 == >=. Inner Array @ Idx 0-1 == Boons, Upgrade Pts.",
+                "GameSize_Vals": [
+                    [1,3],
+                    [2,4],
+                    [3,5]
+                ]
+            },
+            "Restrictions":{}
+        },
+        "Upgrades_Category":{
+            "Category1":{
+                "Upgrade1":""
+            },
+            "Category2":{
+                "Upgrade1":""
+            }
+        }
+    },
+    "OC_Rules":{
+        "GuideLines":{
+            "RestrictionSchema":"",
+            "Rules_Parameters":{}
+        }
+    },
+    "FAQs":{
+        "Rulings":{}
+    },
+    "PlanetaryBoons":{
+        "Planet1":"",
+        "Planet2":""
+    }
+}}
